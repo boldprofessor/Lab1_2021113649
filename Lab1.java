@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.stream.Collectors;
 
 
-//123
+//12345
 
 public class Lab1 {
     private final Map<String, Map<String, Integer>> graph;
