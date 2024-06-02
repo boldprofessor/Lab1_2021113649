@@ -8,6 +8,7 @@ import java.util.stream.Collectors;
 
 
 //12345
+//111
 
 public class Lab1 {
     private final Map<String, Map<String, Integer>> graph;
